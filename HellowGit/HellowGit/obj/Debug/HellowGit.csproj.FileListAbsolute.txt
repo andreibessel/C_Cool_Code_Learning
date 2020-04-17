@@ -1,0 +1,6 @@
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/HellowGit/HellowGit/bin/Debug/HellowGit.exe
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/HellowGit/HellowGit/bin/Debug/HellowGit.pdb
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/HellowGit/HellowGit/obj/Debug/HellowGit.csprojAssemblyReference.cache
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/HellowGit/HellowGit/obj/Debug/HellowGit.csproj.CoreCompileInputs.cache
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/HellowGit/HellowGit/obj/Debug/HellowGit.exe
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/HellowGit/HellowGit/obj/Debug/HellowGit.pdb

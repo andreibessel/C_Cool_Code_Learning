@@ -1,13 +1,16 @@
-﻿<Properties StartupConfiguration="{E050151F-64A6-4EA1-BD45-F40DF6FFD84A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HellowGit/Program.cs">
+﻿<Properties StartupConfiguration="{8C1DB537-3E53-4434-91E6-C13C12B64756}|Default">
+  <MonoDevelop.Ide.ItemProperties.LearningLinQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LearningLinQ/Program.cs">
     <Files>
-      <File FileName="HellowGit/Program.cs" Line="1" Column="1" />
+      <File FileName="LearningLinQ/Program.cs" Line="19" Column="45" />
+      <File FileName="../../FileExamples/Foods.xml" Line="2" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HellowGit" expanded="True">
-            <Node name="HellowGit" expanded="True">
+          <Node name="LearningLinQ" expanded="True">
+            <Node name="LearningLinQ" expanded="True">
+              <Node name="Properties" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,13 +18,12 @@
       </Pad>
       <Pad Id="ClassPad">
         <State name="__root__">
-          <Node name="HellowGit" expanded="True" />
+          <Node name="LearningLinQ" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.HellowGit PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

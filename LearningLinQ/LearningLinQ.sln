@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningLinQ", "LearningLinQ\LearningLinQ.csproj", "{8C1DB537-3E53-4434-91E6-C13C12B64756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1DB537-3E53-4434-91E6-C13C12B64756}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8C1DB537-3E53-4434-91E6-C13C12B64756}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8C1DB537-3E53-4434-91E6-C13C12B64756}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8C1DB537-3E53-4434-91E6-C13C12B64756}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
