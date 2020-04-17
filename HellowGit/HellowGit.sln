@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellowGit", "HellowGit\HellowGit.csproj", "{E050151F-64A6-4EA1-BD45-F40DF6FFD84A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E050151F-64A6-4EA1-BD45-F40DF6FFD84A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E050151F-64A6-4EA1-BD45-F40DF6FFD84A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E050151F-64A6-4EA1-BD45-F40DF6FFD84A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E050151F-64A6-4EA1-BD45-F40DF6FFD84A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
