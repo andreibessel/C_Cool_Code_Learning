@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMessangerCode", "MyMessangerCode\MyMessangerCode.csproj", "{79493EDD-2EF4-4E08-93DF-B3316E3D4DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79493EDD-2EF4-4E08-93DF-B3316E3D4DDB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{79493EDD-2EF4-4E08-93DF-B3316E3D4DDB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{79493EDD-2EF4-4E08-93DF-B3316E3D4DDB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{79493EDD-2EF4-4E08-93DF-B3316E3D4DDB}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
