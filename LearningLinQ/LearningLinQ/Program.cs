@@ -13,15 +13,7 @@ namespace LearningLinQ
 
         static void Main()
         {
-            XElement foods = XElement.Load(@"/Users/l.apunkt/Desktop/Code Learning/FileExamples/Foods.xml");
-            IEnumerable<string> myFood =
-                from food in foods.Descendants("breakfast_menu")
-                where food.Descendants("food")
-                select (string)food.Attribute("name");
-            foreach (var item in myFood)
-            {
-                Console.WriteLine(item);
-            }
+            
             
 
             
