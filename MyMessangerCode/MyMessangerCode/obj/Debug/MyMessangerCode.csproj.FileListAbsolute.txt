@@ -1,6 +1,0 @@
-/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/MyMessangerCode/MyMessangerCode/bin/Debug/MyMessangerCode.exe
-/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/MyMessangerCode/MyMessangerCode/bin/Debug/MyMessangerCode.pdb
-/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/MyMessangerCode/MyMessangerCode/obj/Debug/MyMessangerCode.csprojAssemblyReference.cache
-/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/MyMessangerCode/MyMessangerCode/obj/Debug/MyMessangerCode.csproj.CoreCompileInputs.cache
-/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/MyMessangerCode/MyMessangerCode/obj/Debug/MyMessangerCode.exe
-/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/MyMessangerCode/MyMessangerCode/obj/Debug/MyMessangerCode.pdb
