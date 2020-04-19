@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{AC916F2A-7EB9-4F07-A3F0-04407F035B48}|Default">
+  <MonoDevelop.Ide.ItemProperties.Learning1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Learning1/Extentions.cs">
+    <Files>
+      <File FileName="Learning1/Program.cs" Line="12" Column="1" />
+      <File FileName="Learning1/Extentions.cs" Line="25" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Learning1" expanded="True">
+            <Node name="Learning1" expanded="True">
+              <Node name="Extentions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Learning1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

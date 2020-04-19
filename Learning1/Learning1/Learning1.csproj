@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
-    <ProjectGuid>{8C1DB537-3E53-4434-91E6-C13C12B64756}</ProjectGuid>
+    <ProjectGuid>{AC916F2A-7EB9-4F07-A3F0-04407F035B48}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LearningLinQ</RootNamespace>
-    <AssemblyName>LearningLinQ</AssemblyName>
+    <RootNamespace>Learning1</RootNamespace>
+    <AssemblyName>Learning1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
@@ -28,14 +28,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Xml" />
-    <Reference Include="System.Data" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Extentions.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

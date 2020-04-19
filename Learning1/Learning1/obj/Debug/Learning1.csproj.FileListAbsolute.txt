@@ -1,0 +1,6 @@
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/Learning1/Learning1/obj/Debug/Learning1.csprojAssemblyReference.cache
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/Learning1/Learning1/obj/Debug/Learning1.csproj.CoreCompileInputs.cache
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/Learning1/Learning1/bin/Debug/Learning1.exe
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/Learning1/Learning1/bin/Debug/Learning1.pdb
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/Learning1/Learning1/obj/Debug/Learning1.exe
+/Users/l.apunkt/Desktop/Code Learning/C_Cool_Code_Learning/Learning1/Learning1/obj/Debug/Learning1.pdb

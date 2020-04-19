@@ -1,9 +1,25 @@
 ﻿<Properties StartupConfiguration="{8C1DB537-3E53-4434-91E6-C13C12B64756}|Default">
   <MonoDevelop.Ide.ItemProperties.LearningLinQ PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LearningLinQ/Program.cs">
     <Files>
-      <File FileName="LearningLinQ/Program.cs" Line="1" Column="1" />
+      <File FileName="LearningLinQ/Program.cs" Line="2" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LearningLinQ" expanded="True">
+            <Node name="LearningLinQ" expanded="True">
+              <Node name="Properties" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="LearningLinQ" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
