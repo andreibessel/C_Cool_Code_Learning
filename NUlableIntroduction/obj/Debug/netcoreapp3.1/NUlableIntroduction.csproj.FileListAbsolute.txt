@@ -1,0 +1,12 @@
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/obj/Debug/netcoreapp3.1/NUlableIntroduction.csprojAssemblyReference.cache
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/obj/Debug/netcoreapp3.1/NUlableIntroduction.csproj.CoreCompileInputs.cache
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/obj/Debug/netcoreapp3.1/NUlableIntroduction.AssemblyInfoInputs.cache
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/obj/Debug/netcoreapp3.1/NUlableIntroduction.AssemblyInfo.cs
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/bin/Debug/netcoreapp3.1/NUlableIntroduction.deps.json
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/bin/Debug/netcoreapp3.1/NUlableIntroduction.runtimeconfig.json
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/bin/Debug/netcoreapp3.1/NUlableIntroduction.runtimeconfig.dev.json
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/bin/Debug/netcoreapp3.1/NUlableIntroduction.dll
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/bin/Debug/netcoreapp3.1/NUlableIntroduction.pdb
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/obj/Debug/netcoreapp3.1/NUlableIntroduction.dll
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/obj/Debug/netcoreapp3.1/NUlableIntroduction.pdb
+/Users/Andrey/Desktop/GitHub/C_Cool_Code_Learning/NUlableIntroduction/obj/Debug/netcoreapp3.1/NUlableIntroduction.genruntimeconfig.cache

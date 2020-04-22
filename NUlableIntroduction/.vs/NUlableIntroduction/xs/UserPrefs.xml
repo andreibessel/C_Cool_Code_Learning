@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{056C340E-DD7D-487B-AFBA-E8C6DD666C1C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SurveyResponse.cs">
+    <Files>
+      <File FileName="Program.cs" Line="15" Column="63" />
+      <File FileName="SurveyQuestions.cs" Line="45" Column="1" />
+      <File FileName="SurveyResponse.cs" Line="48" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NUlableIntroduction" expanded="True">
+            <Node name="NUlableIntroduction" expanded="True">
+              <Node name="SurveyResponse.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NUlableIntroduction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
